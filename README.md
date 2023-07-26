@@ -1,0 +1,4 @@
+# Enhancing-environmental-sounds-using-deep-learning
+The detection of audio based on acoustic event happens in the environment, this can be done by using UrbanSound8k dataset.
+Environmental sound classification has become an important application for the research process in recent years, as it has many applications in several fields such as urban noise management, wildlife monitoring, and intelligent sound system. Sound classification involves mainly classifying the different sounds and predicting the class of that sound by using deep learning techniques. These techniques have proven to be very effective in many sound analysis and classification areas.
+This can be deployed into flask app so that user can give the audio clip to know the result i.e., prediction of that model on the interface. 
